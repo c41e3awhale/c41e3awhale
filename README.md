@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c41e3awhale
 - 👀 I’m interested in game engines
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on MEMES LMAO
 - 📫 How to reach me: https://twitter.com/c41e3awhale
 
