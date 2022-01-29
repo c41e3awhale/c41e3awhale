@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on games!
-- 📫 How to reach me: https://twitter.com/c41e3awhale
+- 📫 How to reach me: https://www.linkedin.com/in/c41e3awhale/
 
 <!---
 c41e3awhale/c41e3awhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
