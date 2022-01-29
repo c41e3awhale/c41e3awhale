@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c41e3awhale
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on MEMES LMAO
+- 💞️ I’m looking to collaborate on games!
 - 📫 How to reach me: https://twitter.com/c41e3awhale
 
 <!---
