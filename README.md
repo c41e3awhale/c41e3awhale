@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c41e3awhale
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning advanced Java and C++
 - 💞️ I’m looking to collaborate on games!
 - 📫 How to reach me: https://www.linkedin.com/in/cardinalwhale/
 
