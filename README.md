@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning advanced Java and C++
 - 💞️ I’m looking to collaborate on games!
-- 📫 How to reach me: https://www.linkedin.com/in/cardinalwhale/
+- 📫 How to reach me: https://www.linkedin.com/in/nikitanikolayev/
 
 <!---
 c41e3awhale/c41e3awhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
